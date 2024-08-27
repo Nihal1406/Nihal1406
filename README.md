@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+!;Welcome+to+my+profile;My+name+is+NihalRathi;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+!;Welcome+to+my+profile;My+name+is+Nihal+Rathi;)](https://git.io/typing-svg)
 
 
 </div>
@@ -16,7 +16,7 @@ I'm a software developer enthusiast and problem solver passionate about leveragi
 - 💡 I'm interested in problem solving, databases and data structures and algorithms.
  
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=css,html,java,javascript,node,express,aws,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,java,javascript,nodejs,express,aws,mysql)](https://skillicons.dev)
 
  
 
@@ -33,6 +33,6 @@ I'm a software developer enthusiast and problem solver passionate about leveragi
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nihal-rathi-06a5a2262) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-rathi-06a5a2262) 
  
 Feel free to explore my repositories, and don't hesitate to reach out!
