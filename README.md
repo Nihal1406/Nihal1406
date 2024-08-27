@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a software developer enthusiast and problem solver passionate about leveraging technology to create innovative solutions.
+I’m a tech enthusiast and problem solver with a strong passion for using technology to develop creative and impactful solutions.
 
  
 ## 🚀 Quick Overview
